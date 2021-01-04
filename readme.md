@@ -1,4 +1,4 @@
-# Simple installation and compilation of MySensors gateway
+## Simple installation and compilation of MySensors gateway
 Modify MQTT_HOST in `install.sh`
  
 And run ```bash install.sh```
@@ -18,3 +18,6 @@ And run ```bash install.sh```
 |  21  |  9  |  MISO  |
 |  23  |  11  |  SCK   |
 
+# Schema
+
+![Schematics](schematic.png)
